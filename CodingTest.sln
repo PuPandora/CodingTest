@@ -15,7 +15,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IceAmericano", "Lv0\120819.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintAge", "Lv0\120820. 나이 출력\PrintAge.csproj", "{0CDA7F94-4BFD-4FDC-9D4B-CACAF29A7D13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseArray", "Lv0\120821. 배열 뒤집기\ReverseArray\ReverseArray.csproj", "{AB543371-9730-4479-81B0-BC6198BD451A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseArray", "Lv0\120821. 배열 뒤집기\ReverseArray.csproj", "{AB543371-9730-4479-81B0-BC6198BD451A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintRightTriangle", "Lv0\120823. 직각삼각형 출력하기\PrintRightTriangle\PrintRightTriangle.csproj", "{9A597682-C4BE-4732-B40D-7639565CFC3A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,6 +49,10 @@ Global
 		{AB543371-9730-4479-81B0-BC6198BD451A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB543371-9730-4479-81B0-BC6198BD451A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB543371-9730-4479-81B0-BC6198BD451A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A597682-C4BE-4732-B40D-7639565CFC3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A597682-C4BE-4732-B40D-7639565CFC3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A597682-C4BE-4732-B40D-7639565CFC3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A597682-C4BE-4732-B40D-7639565CFC3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -58,6 +64,7 @@ Global
 		{E77BD0DE-8FA0-455D-B0C2-2408422935FA} = {9C03D3D1-5F2C-4590-9135-5EAB9F37B1DF}
 		{0CDA7F94-4BFD-4FDC-9D4B-CACAF29A7D13} = {9C03D3D1-5F2C-4590-9135-5EAB9F37B1DF}
 		{AB543371-9730-4479-81B0-BC6198BD451A} = {9C03D3D1-5F2C-4590-9135-5EAB9F37B1DF}
+		{9A597682-C4BE-4732-B40D-7639565CFC3A} = {9C03D3D1-5F2C-4590-9135-5EAB9F37B1DF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {20297656-D4E6-441B-BF86-95AC9C4A182C}
