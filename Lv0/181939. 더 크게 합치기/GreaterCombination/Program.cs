@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+// 프로그래머스 181939. 더 크게 합치기
+// https://school.programmers.co.kr/learn/courses/30/lessons/181939
+
 public class Solution
 {
     public int solution(int a, int b)
