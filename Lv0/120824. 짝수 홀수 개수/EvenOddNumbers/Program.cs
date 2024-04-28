@@ -15,6 +15,7 @@ public class Solution
         int evenCount = 0;
         int oddCount = 0;
 
+        // 받은 리스트를 탐색하며 짝수 홀수 개수 기록
         foreach (int i in num_list)
         {
             // 짝수일 경우

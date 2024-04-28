@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreaterCombination", "Lv0\1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompareCalculation", "Lv0\181938. 두 수의 연산값 비교하기\CompareCalculation\CompareCalculation.csproj", "{609EA203-1394-4033-A582-18EA2D157ADB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenOddNumbers", "Lv0\120824. 짝수 홀수 개수\EvenOddNumbers\EvenOddNumbers.csproj", "{3615DE78-CDDE-4149-A456-D9792A672EBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintStringRepeat", "Lv0\120825. 문자 반복 출력하기\PrintStringRepeat\PrintStringRepeat.csproj", "{1A01CAEB-A673-41F9-AAFD-1705DFDFDAE3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +87,14 @@ Global
 		{609EA203-1394-4033-A582-18EA2D157ADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{609EA203-1394-4033-A582-18EA2D157ADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{609EA203-1394-4033-A582-18EA2D157ADB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3615DE78-CDDE-4149-A456-D9792A672EBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3615DE78-CDDE-4149-A456-D9792A672EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3615DE78-CDDE-4149-A456-D9792A672EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3615DE78-CDDE-4149-A456-D9792A672EBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A01CAEB-A673-41F9-AAFD-1705DFDFDAE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A01CAEB-A673-41F9-AAFD-1705DFDFDAE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A01CAEB-A673-41F9-AAFD-1705DFDFDAE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A01CAEB-A673-41F9-AAFD-1705DFDFDAE3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -100,6 +112,8 @@ Global
 		{58D3ECFE-6468-4E68-B853-5232F4BEECBC} = {9C03D3D1-5F2C-4590-9135-5EAB9F37B1DF}
 		{03B0618D-15FC-4786-9F5D-1ABAB9C4632A} = {9C03D3D1-5F2C-4590-9135-5EAB9F37B1DF}
 		{609EA203-1394-4033-A582-18EA2D157ADB} = {9C03D3D1-5F2C-4590-9135-5EAB9F37B1DF}
+		{3615DE78-CDDE-4149-A456-D9792A672EBE} = {9C03D3D1-5F2C-4590-9135-5EAB9F37B1DF}
+		{1A01CAEB-A673-41F9-AAFD-1705DFDFDAE3} = {9C03D3D1-5F2C-4590-9135-5EAB9F37B1DF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {20297656-D4E6-441B-BF86-95AC9C4A182C}
